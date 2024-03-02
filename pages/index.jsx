@@ -200,12 +200,12 @@ const Index = () => {
               <div className="lui-text about-text">
                 <div>
                   {" "}
-                  &nbsp;Hey everyone! My name is Cathal Paz and I'm a 22-year-old Software Engineer from New York City. My tech journey started in a somewhat unconventional way, creating mods for video games back in middle school. Despite originally being on the premed track, my drive for problem-solving and ability to understand complex systems drove me down a different path. {" "}
+                  &nbsp;&nbsp;&nbsp;Hey everyone! My name is Cathal Paz and I'm a 22-year-old Software Engineer from New York City. My tech journey started in a somewhat unconventional way, creating mods for video games back in middle school. Despite originally being on the premed track, my drive for problem-solving and ability to understand complex systems drove me down a different path. {" "}
                 </div>
                   {" "}
                 <div className="second-text">
                   {" "}
-                  &nbsp;Fast forward to today, I'm proud to say that I've come a long way from my modding days. I've honed my skills to become a proficient Software Engineer with a focus on full-stack development and data, capable of building applications from the ground up. {" "}
+                  &nbsp;&nbsp;&nbsp;Fast forward to today, I'm proud to say that I've come a long way from my modding days. I've honed my skills to become a proficient Software Engineer with a focus on full-stack development and data, capable of building applications from the ground up. {" "}
                 </div>
               </div>
               <div
