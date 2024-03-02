@@ -200,12 +200,12 @@ const Index = () => {
               <div className="lui-text about-text">
                 <div>
                   {" "}
-                  Hey everyone! As you've probably already guessed, My name is Cathal Paz and I'm a 22-year-old passionate coder from New York City. My journey into the tech world started in middle school in a somewhat unconventional way, creating scrappy mods for Minecraft. Originally, I was on the premed track in school. However, life had its own plans, and my fascination of coding sparked up again leading me down a different road. As I dove deeper into this new field, I discovered the infinite potential to bring ideas to life through code. {" "}
+                  Hey everyone! My name is Cathal Paz and I'm a 22-year-old Software Engineer from New York City. My tech journey started in a somewhat unconventional way, creating mods for video games back in middle school. Despite originally being on the premed track, my drive for problem-solving and ability to understand complex systems drove me down a different path. {" "}
                 </div>
                   {" "}
                 <div className="second-text">
                   {" "}
-                  Fast forward to today, I'm proud to say that I've come a long way from my modding days. I've honed my skills to become a proficient full-stack developer, capable of building applications from the ground-up. When I'm not immersed in coding, you'll find me hitting the gym to stay active, enjoying the atmosphere of music festivals, or simply hanging out friends to unwind. {" "}
+                  Fast forward to today, I'm proud to say that I've come a long way from my modding days. I've honed my skills to become a proficient Software Engineer with a focus on full-stack development and data, capable of building applications from the ground up. {" "}
                 </div>
               </div>
               <div
@@ -404,7 +404,7 @@ const Index = () => {
                       <span> Location </span>
                     </div>
                     <div className="lui-text">
-                      <span> NYC, Willing to relocate </span>
+                      <span> New York, NY </span>
                     </div>
                   </div>
                   <div
@@ -418,7 +418,7 @@ const Index = () => {
                       <span> Freelance </span>
                     </div>
                     <div className="lui-text">
-                      <span> Available Right Now </span>
+                      <span> Available </span>
                     </div>
                   </div>
                   <div

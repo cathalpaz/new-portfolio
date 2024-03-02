@@ -282,7 +282,7 @@ const PortfolioIsotope = ({ noViewMore }) => {
                 className="btn scrolla-element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <span>More small projects on<i aria-hidden="true" className="fab fa-github more-github" /></span>
+                <span>More projects on<i aria-hidden="true" className="fab fa-github more-github" /></span>
               </a>
             </a>
           </div>
