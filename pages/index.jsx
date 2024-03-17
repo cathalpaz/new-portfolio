@@ -89,7 +89,7 @@ const Index = () => {
                     <a target="_blank" rel="nofollow" href="https://wellfound.com/u/cathal-paz">
                       <i aria-hidden="true" className="fab fa-angellist" />
                     </a>
-                    <a target="_blank" rel="nofollow" href="assets/cathalpaz-resume.pdf">
+                    <a target="_blank" rel="nofollow" href="assets/cathalpaz_resume.pdf">
                       <i aria-hidden="true" className="far fa-file-alt" />
                     </a>
                   </div>
@@ -97,9 +97,9 @@ const Index = () => {
                 <div className="bts">
                   <a
                     target="_blank"
-                    href="assets/cathalpaz-resume.pdf"
+                    href="assets/cathalpaz_resume.pdf"
                     className="btn"
-                    download='cathalpaz-resume'
+                    download='cathalpaz_resume'
                   >
                     <span>Download CV</span>
                   </a>
