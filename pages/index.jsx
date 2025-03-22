@@ -89,20 +89,20 @@ const Index = () => {
                     <a target="_blank" rel="nofollow" href="https://wellfound.com/u/cathal-paz">
                       <i aria-hidden="true" className="fab fa-angellist" />
                     </a>
-                    <a target="_blank" rel="nofollow" href="assets/cathalpaz_resume.pdf">
+                    {/* <a target="_blank" rel="nofollow" href="assets/cathalpaz_resume.pdf">
                       <i aria-hidden="true" className="far fa-file-alt" />
-                    </a>
+                    </a> */}
                   </div>
                 </div>
                 <div className="bts">
-                  <a
+                  {/* <a
                     target="_blank"
                     href="assets/cathalpaz_resume.pdf"
                     className="btn"
                     download='cathalpaz_resume'
                   >
                     <span>Download CV</span>
-                  </a>
+                  </a> */}
                   <a href="#about-me" className="btn-lnk">
                     {" "}
                     About me{" "}
@@ -115,7 +115,7 @@ const Index = () => {
               >
                 <img
                   decoding="async"
-                  src="assets/images/pp2.png"
+                  src="assets/images/pp-test.png"
                   alt="<b>Cathal</b> Paz"
                   className="profile-img"
                 />
@@ -435,7 +435,7 @@ const Index = () => {
                       <span> cathalpaz@gmail.com </span>
                     </div>
                   </div>
-                  <div
+                  {/* <div
                     className="numbers-item scrolla-element-anim-1 scroll-animate"
                     data-animate="active"
                   >
@@ -448,7 +448,7 @@ const Index = () => {
                     <div className="lui-text">
                       <span> +1 917 - 972 - 4960 </span>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
               <div className="col-xs-12 col-sm-12 col-md-7 col-lg-7">
