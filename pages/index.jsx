@@ -115,7 +115,7 @@ const Index = () => {
               >
                 <img
                   decoding="async"
-                  src="assets/images/pp-test.png"
+                  src="assets/images/pp2.png"
                   alt="<b>Cathal</b> Paz"
                   className="profile-img"
                 />
